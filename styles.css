@@ -1,0 +1,79 @@
+* {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: blue;
+  font-size: 2rem;
+}
+
+button {
+  background-color: lightgreen;
+  cursor: pointer;
+  margin: 0.5rem;
+  max-width: 100px;
+}
+input {
+  background-color: lightgreen;
+  border: none;
+  border-radius: 4px;
+  color: black;
+  cursor: pointer;
+  margin: 8px 0;
+  padding: 14px 20px;
+  width: 80%;
+}
+
+header {
+  align-items: center;
+  display: flex;
+}
+
+i {
+  color: green;
+  font-size: 2rem !important;
+  margin-left: 2rem;
+}
+
+.container {
+  background-color: #ddd;
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 1000px;
+}
+
+.form__container {
+  align-items: center;
+  border: 2px solid blue;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  max-width: 800px;
+  padding: 2rem;
+}
+
+.itemList {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  height: 10rem;
+}
+
+.popularItemsSection {
+  display: flex;
+  justify-content: space-between;
+  max-width: 200px;
+}
+
+.itemRemoved {
+  text-decoration: line-through;
+}
+
+.warning__container {
+  height: 1rem;
+}
+
+.warning {
+  color: red;
+}
