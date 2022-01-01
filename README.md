@@ -1,6 +1,6 @@
 # Grocery Tracker App
 
-A JavaScript application :computer that demos DOM manipulation. This demo app will only live in the browser until the page is refreshed and is not connected to a database at this time. Keep track of your grocery list :strawberry :tomato :bread by adding and removing items. See core recommendations via a popular items section and check off items as you add them to your cart...happy shopping!
+A JavaScript application :computer: that demos DOM manipulation. This demo app will only live in the browser until the page is refreshed and is not connected to a database at this time. Keep track of your grocery list :strawberry: :tomato: :bread: by adding and removing items. See core recommendations via a popular items section and check off items as you add them to your cart...happy shopping!
 
 ## Methods demonstrated in this application
 
