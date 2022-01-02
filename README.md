@@ -7,7 +7,7 @@ A JavaScript application :computer: that demos DOM manipulation. This demo app w
 - `document.querySelector` : grabs an element by its id or class name
 - `document.createElement` : dynamically creates an html element of choice
 - `elemVariable.innerText`: sets the text content on that element
-  ` 'elemVariable.className`: dynamically assigns a class name to the element
+- `elemVariable.className`: dynamically assigns a class name to the element
 - `parentElemVariable.appendChild(childElemVariable)`: places this element in the correct place on the DOM
 - `parentElemVariable.removeChild(childElemVariable)`: removes this element in the DOM
 - `e.target` : the element that has been targeted by the user (usually due to some event...such as a click event)
